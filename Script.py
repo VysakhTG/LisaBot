@@ -105,6 +105,7 @@ Do as you wish with telegra.ph module!
 • Example 
 <code>/ytthumb https://youtu.be/UyzJ9KEoU0w</code>"""
     STICKER_TXT = """𝚈𝙾𝚄 𝙲𝙰𝙽 𝚄𝚂𝙴 𝚃𝙷𝙸𝚂 𝙼𝙾𝙳𝚄𝙻𝙴 𝚃𝙾 𝙵𝙸𝙽𝙳 𝙰𝙽𝚈 𝚂𝚃𝙸𝙲𝙺𝙴𝚁𝚂 𝙸𝙳
+
 • 𝐔𝐒𝐀𝐆𝐄 
 To Get Sticker ID 
 
