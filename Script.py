@@ -108,7 +108,7 @@ Do as you wish with telegra.ph module!
 • 𝐔𝐒𝐀𝐆𝐄 
 To Get Sticker ID 
 
-⭕ 𝙃𝙤𝙬 𝙏𝙤 𝙐𝙨𝙚
+⭕How to use
 
  ◉ Reply To Any Sticker /stickerid"""
     
