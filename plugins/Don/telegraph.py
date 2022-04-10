@@ -9,7 +9,7 @@ from plugins.helper_functions.get_file_id import get_file_id
 TMP_DOWNLOAD_DIRECTORY = "./DOWNLOADS/"
 
 @Client.on_message(
-    filters.command("telegraph") 
+    filters.command("tele") 
 )
 async def telegraph(client, message):
     replied = message.reply_to_message
