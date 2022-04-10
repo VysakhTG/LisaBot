@@ -442,6 +442,17 @@ async def cb_handler(client: Client, query: CallbackQuery):
             reply_markup=reply_markup,
             parse_mode='html'
         )
+    elif query.data == "hellp":
+        buttons = [[
+            InlineKeyboardButton('𝙺𝙸𝙲𝙺', callback_data='zombies')
+        ]]
+        reply_markup = InlineKeyboardMarkup(buttons)
+        await query.answer("𝖶𝖾𝗅𝖼𝗈𝗆𝖾 𝗍𝗈 𝗆𝗒 𝖧𝖾𝗅𝗉 𝗆𝗈𝖽𝗎𝗅𝖾")
+        await query.message.edit_text(
+            text=script.HELP_TXT.format(query.from_user.mention), 
+            reply_markup=reply_markup, 
+            parse_mode='html'
+        )
     elif query.data == "about":
         buttons = [[
             InlineKeyboardButton('🏠 ʜᴏᴍᴇ', callback_data='start'),
