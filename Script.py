@@ -93,8 +93,8 @@ Do as you wish with telegra.ph module!
 
 <b>NOTE:</b>
 
-• This Command Is Available in goups and pms 
-• This Command Can be used by everyone"""
+• 𝚃𝚑𝚒𝚜 𝙲𝚘𝚖𝚖𝚊𝚗𝚍 𝙸𝚜 𝙰𝚟𝚊𝚒𝚕𝚊𝚋𝚕𝚎 𝚒𝚗 𝚐𝚘𝚞𝚙𝚜 𝚊𝚗𝚍 𝚙𝚖
+• 𝚃𝚑𝚒𝚜 𝙲𝚘𝚖𝚖𝚊𝚗𝚍 𝙲𝚊𝚗 𝚋𝚎 𝚞𝚜𝚎𝚍 𝚋𝚢 𝚎𝚟𝚎𝚛𝚢𝚘𝚗𝚎"""
 
     ADMIN_TXT = """Help: <b>Admin mods</b>
 
