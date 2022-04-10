@@ -96,6 +96,14 @@ Do as you wish with telegra.ph module!
 • 𝚃𝚑𝚒𝚜 𝙲𝚘𝚖𝚖𝚊𝚗𝚍 𝙸𝚜 𝙰𝚟𝚊𝚒𝚕𝚊𝚋𝚕𝚎 𝚒𝚗 𝚐𝚘𝚞𝚙𝚜 𝚊𝚗𝚍 𝚙𝚖
 • 𝚃𝚑𝚒𝚜 𝙲𝚘𝚖𝚖𝚊𝚗𝚍 𝙲𝚊𝚗 𝚋𝚎 𝚞𝚜𝚎𝚍 𝚋𝚢 𝚎𝚟𝚎𝚛𝚢𝚘𝚗𝚎"""
 
+    YTTHUMB_TXT = """𝙷𝙴𝙻𝙿𝚂 𝚃𝙾 𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳 𝙰𝙽𝚈 𝚈𝙾𝚄𝚃𝚄𝙱𝙴 𝚅𝙸𝙳𝙴𝙾 𝚃𝙷𝚄𝙼𝙱𝙽𝙰𝙸𝙻
+    
+⭕𝙃𝙤𝙬 𝙏𝙤 𝙐𝙨𝙚 
+
+◉ 𝘛𝘺𝘱𝘦 /ytthumb 𝘈𝘯𝘥 𝘝𝘪𝘥𝘦𝘰 𝘓𝘪𝘯𝘬 
+
+• 𝘌𝘹𝘢𝘮𝘱𝘭𝘦
+<code>/ytthumb https://youtu.be/UyzJ9KEoU0w</code>"""
     ADMIN_TXT = """Help: <b>Admin mods</b>
 
 <b>NOTE:</b>
