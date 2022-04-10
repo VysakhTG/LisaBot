@@ -82,7 +82,20 @@ these are the extra features of 𝙻𝚒𝚜𝚊
 ➤ 𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬 𝐚𝐧𝐝 𝐔𝐬𝐚𝐠𝐞:
 
 ➪/report 𝗈𝗋 @admins - 𝖳𝗈 𝗋𝖾𝗉𝗈𝗋𝗍 𝖺 𝗎𝗌𝖾𝗋 𝗍𝗈 𝗍𝗁𝖾 𝖺𝖽𝗆𝗂𝗇𝗌 (𝗋𝖾𝗉𝗅𝗒 𝗍𝗈 𝖺 𝗆𝖾𝗌𝗌𝖺𝗀𝖾)."""
-    
+  
+    TELE_TXT = """<b>▫️HELP: Telegraph▪️</b>
+
+Do as you wish with telegra.ph module!
+
+</b>USAGE:</b>
+
+🤧 /telegraph - Send me Picture or Vide Under (5MB)
+
+<b>NOTE:</b>
+
+• This Command Is Available in goups and pms 
+• This Command Can be used by everyone"""
+
     ADMIN_TXT = """Help: <b>Admin mods</b>
 
 <b>NOTE:</b>
