@@ -98,11 +98,11 @@ Do as you wish with telegra.ph module!
 
     YTTHUMB_TXT = """𝙷𝙴𝙻𝙿𝚂 𝚃𝙾 𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳 𝙰𝙽𝚈 𝚈𝙾𝚄𝚃𝚄𝙱𝙴 𝚅𝙸𝙳𝙴𝙾 𝚃𝙷𝚄𝙼𝙱𝙽𝙰𝙸𝙻
     
-⭕𝙃𝙤𝙬 𝙏𝙤 𝙐𝙨𝙚 
+⭕How to use
 
-◉ 𝘛𝘺𝘱𝘦 /ytthumb 𝘈𝘯𝘥 𝘝𝘪𝘥𝘦𝘰 𝘓𝘪𝘯𝘬 
+◉ Type /ytthumb [video Link]
 
-• 𝘌𝘹𝘢𝘮𝘱𝘭𝘦
+• Example
 <code>/ytthumb https://youtu.be/UyzJ9KEoU0w</code>"""
     ADMIN_TXT = """Help: <b>Admin mods</b>
 
