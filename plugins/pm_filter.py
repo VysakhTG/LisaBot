@@ -433,23 +433,13 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('ʀᴇᴘᴏʀᴛ', callback_data='report')
             ],[
             InlineKeyboardButton('🏠 ʜᴏᴍᴇ', callback_data='start'),
-            InlineKeyboardButton('🔮 ꜱᴛᴀᴛᴜꜱ', callback_data='stats'),
-            InlineKeyboardButton('nexxt',callback_data='texxt')]]
+            InlineKeyboardButton('🔮 ꜱᴛᴀᴛᴜꜱ', callback_data='stats')
+            ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
             text=script.HELP_TXT.format(query.from_user.mention),
             reply_markup=reply_markup,
             parse_mode='html'
-        )
-    elif query.data == "nexxt":
-        buttons = [[
-            InlineKeyboardButton('👩‍🦯 ʙᴀᴄᴋ', callback_data='help')
-        ]]
-        reply_markup = InlineKeyboardButton(buttons)
-        await query.message.edit_text(
-            text=script.NEXXT_TXT.format(temp.B_NAME),
-            reply_markup=reply_markup,
-            parse_mode='html' 
         )
     elif query.data == "about":
         buttons = [[
