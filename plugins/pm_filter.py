@@ -443,7 +443,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "nexxt":
         buttons = [[
-            InlineKeyboardButton('🏠 ʜᴏᴍᴇ', callback_data='start')
+            InlineKeyboardButton('👩‍🦯 ʙᴀᴄᴋ', callback_data='help')
         ]]
         reply_markup = InlineKeyboardButton(buttons)
         await query.message.edit_text(
