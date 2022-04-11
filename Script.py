@@ -82,7 +82,18 @@ these are the extra features of 𝙻𝚒𝚜𝚊
 ➤ 𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬 𝐚𝐧𝐝 𝐔𝐬𝐚𝐠𝐞:
 
 ➪/report 𝗈𝗋 @admins - 𝖳𝗈 𝗋𝖾𝗉𝗈𝗋𝗍 𝖺 𝗎𝗌𝖾𝗋 𝗍𝗈 𝗍𝗁𝖾 𝖺𝖽𝗆𝗂𝗇𝗌 (𝗋𝖾𝗉𝗅𝗒 𝗍𝗈 𝖺 𝗆𝖾𝗌𝗌𝖺𝗀𝖾)."""
-  
+    
+    VIDEO_TXT ="""𝙷𝙴𝙻𝙿 𝚈𝙾𝚄 𝚃𝙾 𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳 𝚅𝙸𝙳𝙴𝙾 𝙵𝚁𝙾𝙼 𝚈𝙾𝚄𝚃𝚄𝙱𝙴
+    
+• Usage 
+ You can download any video from YouTube 
+
+How to use 
+• 𝘛𝘺𝘱𝘦 /video or /mp4 𝘈𝘯𝘥 (https://youtu.be/kB9TkCs8cX0)
+• 𝘌𝘹𝘢𝘮𝘱𝘭𝘦:
+<code>/mp4 https://youtu.be/kB9TkCs8cX0</code>
+<code>/video https://youtu.be/kB9TkCs8cX0</code>"""
+
     TELEGRAPH_TXT = """<b>▫️HELP: Telegraph▪️</b>
 
 Do as you wish with telegra.ph module!
