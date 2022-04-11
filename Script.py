@@ -128,6 +128,7 @@ To Get Sticker ID
 
  ◉ Reply To Any Sticker /stickerid"""
     
+    NEXXT_TXT = """NOOOOO"""
     ADMIN_TXT = """Help: <b>Admin mods</b>
 
 <b>NOTE:</b>
