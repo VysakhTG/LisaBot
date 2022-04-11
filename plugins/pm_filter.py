@@ -442,7 +442,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             ],[
             InlineKeyboardButton('𝙿𝚄𝚁𝙶𝙴', callback_data='purges'),
             InlineKeyboardButton('𝚆𝙷𝙾𝙸𝚂', callback_data='whois'),
-            InlineKeyboardButton('𝙲𝙾𝚅𝙸𝙳', callback_data='corona'
+            InlineKeyboardButton('𝙲𝙾𝚅𝙸𝙳', callback_data='corona')
             ],[
                 
             InlineKeyboardButton('🏠 ʜᴏᴍᴇ', callback_data='start'),
