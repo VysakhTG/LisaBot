@@ -164,6 +164,8 @@ To Get Sticker ID
 ⭕How to use
 
  ◉ Reply To Any Sticker /stickerid"""
+    NEXXT_TXT = """NOOOnj 
+    hhhhhh"""
     
     ADMIN_TXT = """Help: <b>Admin mods</b>
 
