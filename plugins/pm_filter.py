@@ -433,7 +433,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('ʀᴇᴘᴏʀᴛ', callback_data='report')
             ],[
             InlineKeyboardButton('🏠 ʜᴏᴍᴇ', callback_data='start'),
-            InlineKeyboardButton('🔮 ꜱᴛᴀᴛᴜꜱ', callback_data='stats')
+            InlineKeyboardButton('🔮 ꜱᴛᴀᴛᴜꜱ', callback_data='stats'),
+            InlineKeyboardButton('nexxt',callback_data='nexxt')
             ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
@@ -449,6 +450,17 @@ async def cb_handler(client: Client, query: CallbackQuery):
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
             text=script.ABOUT_TXT.format(temp.B_NAME),
+            reply_markup=reply_markup,
+            parse_mode='html'
+        )
+    elif query.data == "nexxt":
+        buttons = [[
+            InlineKeyboardButton('𝚂𝙾𝙽𝙶', callback_data='songs'),
+            InlineKeyboardButton('👩‍🦯 Back', callback_data='help')
+        ]]
+        reply_markup = InlineKeyboardMarkup(buttons)
+        await query.message.edit_text(
+            text=script.NEXXT_TXT,
             reply_markup=reply_markup,
             parse_mode='html'
         )
