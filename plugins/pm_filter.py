@@ -549,7 +549,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "songs":
         buttons = [[
-            InlineKeyboardButton('𝙱𝙰𝙲𝙺', callback_data='help')
+            InlineKeyboardButton('𝙱𝙰𝙲𝙺', callback_data='nexxt')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
