@@ -8,7 +8,7 @@ from database.gtrans_mdb import find_one
 async def left(client,message):
 	if (message.reply_to_message):
 		try:
-			lgcd = message.text.split("/tr")
+			lgcd = message.text.split("/translate")
 			lg_cd = lgcd[1].lower().replace(" ", "")
 			tr_text = message.reply_to_message.text
 			translator = Translator()
