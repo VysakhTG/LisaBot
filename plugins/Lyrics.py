@@ -8,16 +8,15 @@ import os
 
 API = "https://apis.xditya.me/lyrics?song="
 
-@Client.on_message(filters.text & filters.command(["lyrics"]))
-async def sng(bot, message):
-        if not message.reply_to_message:
-          await message.reply_text("Please reply to a message")
-        else:          
-          mee = await message.reply_text("`Searching 🔎`")
-          song = message.reply_to_message.text
-          chat_id = message.from_user.id
-          rpl = lyrics(song)
-          await mee.delete()
+@Client.on_message(filters.command("lyrics"))
+async def lyrics(client, message):
+    searchlyrics = message.text.split(" ", 1)
+    if len(searchlyrics) == 1:
+                await message.reply_text("**Usage:**\n/lyrics [lyrics]")
+                return
+          else:
+               searchlyrics = searchip[1]
+               m = await message.reply_text("Searching...")
           try:
             await mee.delete()
             await bot.send_message(chat_id, text = rpl, reply_to_message_id = message.message_id, reply_markup = InlineKeyboardMarkup([[InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇs ", url = f"t.me/xd_botz")]]))
