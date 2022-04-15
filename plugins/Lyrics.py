@@ -12,12 +12,12 @@ API = "https://apis.xditya.me/lyrics?song="
 async def lyrics(client, message):
     searchlyrics = message.text.split(" ", 1)
     if len(searchlyrics) == 1:
-                await message.reply_text("**Usage:**\n/lyrics [lyrics]")
-            return
-        else:
-               searchlyrics = searchlyrics[1]
-               m = await message.reply_text("Searching...")
-          try:
+        message.reply_text("Usage:\n/lyrics [lyrics]") 
+        return
+    else:
+        searchlyrics = searchlyrics[1]
+        m = await message.reply_text("Searching...") 
+          try: 
             await mee.delete()
             await bot.send_message(chat_id, text = rpl, reply_to_message_id = message.message_id, reply_markup = InlineKeyboardMarkup([[InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇs ", url = f"t.me/xd_botz")]]))
           except Exception as e:                            
