@@ -13,9 +13,9 @@ async def lyrics(client, message):
     searchlyrics = message.text.split(" ", 1)
     if len(searchlyrics) == 1:
                 await message.reply_text("**Usage:**\n/lyrics [lyrics]")
-                return
-          else:
-               searchlyrics = searchip[1]
+            return
+        else:
+               searchlyrics = searchlyrics[1]
                m = await message.reply_text("Searching...")
           try:
             await mee.delete()
