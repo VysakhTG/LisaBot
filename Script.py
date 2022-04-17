@@ -123,8 +123,10 @@ Do as you wish with telegra.ph module!
 
 ◉ Type /ytthumb [video Link]
 
-• Example 
+• Example  
 <code>/ytthumb https://youtu.be/UyzJ9KEoU0w</code>""" 
+    
+    HEROKUSTATUS_TXT = """Send /status for getting bot and heroku status"""
     
     RESTRIC_TXT = """➤ 𝐇𝐞𝐥𝐩: Mᴜᴛᴇ 🚫
     
