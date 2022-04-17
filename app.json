@@ -35,7 +35,7 @@
             "required": false
         },
         "HEROKU_API_KEY": {
-            "description": "your heroku api key"
+            "description": "your heroku api key.",
             "required": true 
         },
         "ADMINS": {
