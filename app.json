@@ -34,10 +34,8 @@
             "description": "Username or ID of channel or group. Separate multiple IDs by space.",
             "required": false
         },
-        "HEROKU_API_KEY": {
-            "description": "your heroku api key.",
-            "required": true 
-        },
+        
+       
         "ADMINS": {
             "description": "Username or ID of Admin. Separate multiple Admins by space.",
             "required": true
