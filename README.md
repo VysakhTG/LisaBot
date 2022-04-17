@@ -2,7 +2,7 @@
   <img src="assets/logo.jpeg" alt="Eva Maria Logo">
 </p>
 <h1 align="center">
-  <b>Eva Maria Bot</b>
+  <b>Lisa Bot</b>
 </h1>
 
 
