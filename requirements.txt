@@ -40,12 +40,13 @@ py-tgcalls
 python-dotenv
 youtube_search_python
 requests
-aiohttp
+aiohttp 
 aiofiles
 asyncio
 youtube_search
 search_engine_parser
 ffmpeg-python
-ffmpeg
+ffmpeg 
+Heroku3
 Pillow
 ujson 
