@@ -89,7 +89,7 @@ Heroku Account Status
         disk = ""
 
     await message.reply_text(
-        "𝗖𝘂𝗿𝗿𝗲𝗻𝘁 𝘀𝘁𝗮𝘁𝘂𝘀 𝗼𝗳 𝘆𝗼𝘂𝗿 𝗕𝗼𝘁\n\n"
+        "𝖼𝗎𝗋𝗋𝖾𝗇𝗍 𝖻𝗈𝗍 𝗌𝗍𝖺𝗍𝗎𝗌\n\n"
         "DB Status\n"
         f"➪ 𝖡𝗈𝗍 𝖴𝗉𝗍𝗂𝗆𝖾: {uptime}\n"
         f"{quota_details}"
