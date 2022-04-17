@@ -30,6 +30,10 @@
 - [x] Stats, Users, Chats, Ban, Unban, Leave, Disable, Channel
 - [x] Spelling Check Feature
 - [x] File Store
+- [x] Telegraph 
+- [x] Song Download 
+- [x] Mute and Report 
+- [x] Sticker id
 ## Variables
 
 Read [this](https://telegram.dog/TeamEvamaria/12) before you start messing up with your edits.
