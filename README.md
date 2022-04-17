@@ -76,6 +76,7 @@ Read [this](https://telegram.dog/TeamEvamaria/12) before you start messing up wi
 • /index  - to add files from a channel
 • /leave  - to leave from a chat.
 • /disable  -  do disable a chat.
+* /status - to get heroku status
 * /enable - re-enable chat.
 • /ban  - to ban a user.
 • /unban  - to unban a user.
