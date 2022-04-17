@@ -580,6 +580,17 @@ async def cb_handler(client: Client, query: CallbackQuery):
             reply_markup=reply_markup,
             parse_mode='html' 
         )
+    elif query.data == "restatus":
+        buttons = [[
+            InlineKeyboardButton('« 𝐵𝑎𝑐𝑘', callback_data='help')
+        ]]
+        reply_markup = InlineKeyboardMarkup(buttons)
+        await query.message.edit_text(
+            text=script.HEROKUSTATUS_TXT, 
+            disable_web_page_preview=True,
+            reply_markup=reply_markup,
+            parse_mode='html'
+        )
     elif query.data == "report":
         buttons = [[
             InlineKeyboardButton('ʙᴀᴄᴋ', callback_data='help')
