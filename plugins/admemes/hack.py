@@ -5,7 +5,7 @@ Available Commands:
 .emoji :/
 .emoji -_-"""
 
-f
+
 
 import asyncio
 
