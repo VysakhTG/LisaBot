@@ -27,6 +27,7 @@ heroku3
 httplib2<0.16.0
 humanize
 lxml
+Heroku3
 oauth2client
 psycopg2
 psycopg2-binary
