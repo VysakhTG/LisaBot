@@ -5,7 +5,7 @@ Available Commands:
 .emoji :/
 .emoji -_-"""
 
-from telethon import events
+f
 
 import asyncio
 
