@@ -50,3 +50,5 @@ ffmpeg
 Heroku3
 Pillow
 ujson 
+telethon>=1.10.3
+-r requirements-startup.txt
