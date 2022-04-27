@@ -54,7 +54,7 @@ Read [this](https://telegram.dog/TeamEvamaria/12) before you start messing up wi
 
 
 ## Deploy
--  [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://telegram.dog/XTZ_HerokuBot?start=VG9ueS1zdGFyazAwMy9FdmFNYXJpYS0xIG1hc3Rlcg)
+-  [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://github.com/VysakhTG/EvaMaria-1)
 
 ## Commands
 ```
